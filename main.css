@@ -1,0 +1,18 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+
+#container {
+    height:80%;
+    width:80%;
+    margin:0 auto;
+
+}
+
+#top_btn {
+    padding:12px;
+    margin:12px auto;
+    display:table;
+    border-radius:6px;:   
+}
